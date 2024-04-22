@@ -1,7 +1,7 @@
 <div align="center">
 
 # swiftuidb
-A sqlite3 database frontend written in Swift and SwiftUI.
+A multi-platform sqlite3 database frontend written in Swift and SwiftUI.
 
 </div>
 
