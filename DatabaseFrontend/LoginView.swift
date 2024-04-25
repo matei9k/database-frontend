@@ -28,7 +28,7 @@ struct LoginView: SwiftUIView {
         VStack {
             VStack(alignment: .leading) {
 #if os(macOS)
-                Text("Authentication").font(.title).bold()
+                Text("Authenticate").font(.title).bold()
 #endif
 
                 Spacer().frame(height: 25)
@@ -147,7 +147,7 @@ struct LoginView: SwiftUIView {
             .buttonStyle(.bordered)
             .ignoresSafeArea(.keyboard)
 #if !os(macOS)
-            .navigationTitle("Autentificare")
+            .navigationTitle("Authenticate")
 #endif
 #if os(macOS)
             .frame(minWidth: 500, minHeight: 500)
