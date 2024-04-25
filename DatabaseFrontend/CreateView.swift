@@ -210,7 +210,7 @@ struct CreateView: SwiftUIView {
             .padding()
             .ignoresSafeArea(.keyboard)
 #if !os(macOS)
-            .navigationTitle("Creare cont")
+            .navigationTitle("Create user")
 #endif
 #if os(macOS)
             .frame(minWidth: 500, minHeight: 500)
