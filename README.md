@@ -1,6 +1,6 @@
 <div align="center">
 
-## *A multi-platform sqlite3 database frontend written in Swift and SwiftUI.*
+## *A multi-platform SQLite3 database frontend written in Swift and SwiftUI.*
 
 </div>
 
