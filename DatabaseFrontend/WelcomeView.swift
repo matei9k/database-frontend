@@ -31,7 +31,7 @@ struct WelcomeView: SwiftUIView {
 #endif
 
                     NavigationLink(destination: LoginView(connection: connection), label: {
-                        Text("Authentication")
+                        Text("Authenticate")
                     })
 #if os(macOS)
                     .controlSize(.large)
