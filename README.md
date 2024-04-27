@@ -1,6 +1,6 @@
 <div align="center">
 
-### *A multi-platform SQLite3 database frontend written in Swift and SwiftUI.*
+### *A versatile SQLite3 database frontend written in Swift and SwiftUI.*
 
 <img width="275" alt="Screenshot 2024-04-25 at 16 27 30" src="https://github.com/matei9k/swiftuidb/assets/142879544/35af6727-13fc-4c50-9623-f8b48e6246cb">
 <img width="506" alt="Screenshot 2024-04-22 at 19 45 07" src="https://github.com/matei9k/swiftuidb/assets/142879544/cc8ae25d-4845-4f56-8d43-eb8f9dcda46e">
